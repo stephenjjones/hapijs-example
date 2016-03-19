@@ -1,0 +1,17 @@
+{
+  "name": "hapijs-example",
+  "version": "1.0.0",
+  "description": "An example project based on hapijs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Jones",
+  "license": "MIT",
+  "dependencies": {
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "hapi": "^13.2.1",
+    "inert": "^3.2.0"
+  }
+}
